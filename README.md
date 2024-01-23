@@ -37,13 +37,14 @@ These instructions will guide you through getting a copy of the project up and r
 - Create a .env file in the project root.
 - Add the following content, updating values as per your database configuration:
   
-env
+
 ## Copy:
-DB_USER=postgres
-DB_HOST=localhost
-DB_DATABASE=world
-DB_PASSWORD=your_password
-DB_PORT=5432
+env
+- DB_USER=postgres
+- DB_HOST=localhost
+- DB_DATABASE=world
+- DB_PASSWORD=your_password
+- DB_PORT=5432
 
 
 ### Start the application:
