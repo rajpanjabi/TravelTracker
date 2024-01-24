@@ -22,7 +22,7 @@ These instructions will guide you through getting a copy of the project up and r
 
 **Clone the repository:**
   
-  - git clone https://github.com/your-username/travel-tracker.git
+  - git clone https://github.com/rajpanjabi/TravelTracker.git
   - cd travel-tracker
 
    
